@@ -1,0 +1,5 @@
+# 忽略根目录下的.venv文件夹
+.venv/
+
+# 忽略test文件夹内的所有.config文件
+test/*.config
