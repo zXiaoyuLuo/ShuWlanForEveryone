@@ -30,6 +30,7 @@
 本项目是基于selenium进行的模拟登录，我的repositories里有相似的项目。
 
 该项目是基于Google Chrome完成的，如果你用的Safari、Firefox、Edge等请自行修改[`auto_login.py`第11行](model%2Fauto_login.py)
+
 # 扩展性
 
 如果是Windows系统且为有线网可以考虑把项目转为.bat文件，并设置电脑开机自动运行。
@@ -41,3 +42,5 @@ Mac mini&Mac Studio等用户也可以做一个.sh的文件，我的是MacBook没
 # 后续的更新
 
 计划着下周抽空给项目加一个每多久自动重新运行一次，并加上其他的功能。
+
+# 📧[EmailMe](mailto:xiaoyuluowork@gmail.com?subject=关于ShuWlanForEveryone项目)
